@@ -1,9 +1,4 @@
-/*
- * Project 3
- * Class: CSCI 1913, Spring 2021, Section 10
- * Professor: Jerald Thomas
- * Student: Keyang Xuan (xuan0008)
- */
+
 import java.util.Arrays;
 public class Project3Graph<T> implements Project3GraphADT<T>{
 
